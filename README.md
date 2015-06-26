@@ -1,2 +1,3 @@
 # jixizh.github.io
-jixizh
+.bashrc
+

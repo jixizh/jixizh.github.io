@@ -40,10 +40,10 @@
 		</header>
 		<nav>
 			<ul>
-				<li><a href="dailywords.html">DAILYWORDS</a></li>
-				<li><a href="poem.html">POEM</a></li>
-				<li><a href="school.html">SCHOOL</a></li>
-				<li><a href="oldnews.html">OLD NEWS</a></li>
+				<li><a href="dailywords.html">dailywords</a></li>
+				<li><a href="poem.html">poem</a></li>
+				<li><a href="school.html">School</a></li>
+				<li><a href="oldnews.html">Old News</a></li>
 			</ul>
 		</nav>
 		<main>

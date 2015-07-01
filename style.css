@@ -10,6 +10,10 @@ article, aside, footer, header, main, nav, section{
 	margin: 0;
 }
 
+html {
+  color: #555;
+}
+
 .banner{
 background-color: #11233b;
 color: white;
@@ -21,8 +25,65 @@ width: 960px;
 margin-left: auto;
 margin-right: auto;
 background-color: #f0f0f0;
-font-family: Helvetica, Arial, sans-serif;
-font-size: 15px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16px;
+line-height: 23px;
+word-spacing: .25em;
+}
+
+h1, h2, h3, h4, h5{
+  color: #648880;
+  
+}
+h1 {
+  font-size: 36px;
+  line-height: 40px;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, .2);
+}
+h2 {
+  font-weight: 300;
+  font-style: italic;
+  
+  font-family: Georgia, Times, "Times New Roman", serif;
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 28px;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, .2);
+}
+h3{
+  font-weight: 300;
+  font-style: italic;
+  font-weight: bold;
+  
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 21px;
+  margin-bottom: 20px;
+  line-height: 25px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .1);
+}
+h4 {
+  font-size: 18px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .1);
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: 400;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .1);
+}
+
+p {
+	max-width: 600px;
+	margin-bottom: 20px;
+	text-indent: 40px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .1);
+}
+
+a {
+  color: #0087cc;
+}
+a:hover {
+  color: #ff7b29;
 }
 
 nav{

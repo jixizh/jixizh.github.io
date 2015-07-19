@@ -6,7 +6,7 @@ email: your-email@domain.com
 description: "诗词歌赋历代杰作。"
 # this is homepage address
 url: "http://jixizh.github.io/jixizhgh" 
-baseurl:"/jixizh"
+baseurl:""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 urlimg: "http://jixizh.github.io/jixizhgh/images/"

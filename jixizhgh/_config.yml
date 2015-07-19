@@ -1,0 +1,26 @@
+# Site settings
+title: RYB
+slogan: "诗词歌赋"
+email: your-email@domain.com
+# about this page
+description: "诗词歌赋历代杰作。"
+# this is homepage address
+url: "http://jixizh.github.io/jixizhgh" 
+baseurl:"/jixizh"
+# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
+urlimg: "http://jixizh.github.io/jixizhgh/images/"
+# Paginates 5
+paginate: 5
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+name: Christmas Recipes
+markdown: kramdown
+highlight: pygments
+permalink: /:categories/:title/
+language: "zh-Hants"
+
+pygments: true
+ 
